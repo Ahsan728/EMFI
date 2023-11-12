@@ -1,0 +1,14 @@
+% Ma: 1st Plaintext, Ca: Corresponding correct ciphertext, Da: Corresponding faulty ciphertext
+Ma = '000102030405060708090a0b0c0d0e0f'
+Ca = '50fe67cc996d32b6da0937e99bafec60'
+Da = 'df48310c723bb363f6de952645e7aec3'
+
+% Mb: 2nd Plaintext, Cb: Corresponding correct ciphertext, Db: Corresponding faulty ciphertext
+Mb = '3243f6a8885a308d313198a2e0370734'
+Cb = '3925841d02dc09fbdc118597196a0b32'
+Db = '577abf0e3ba2c205acaf4610218fcf33'
+
+% Mc: 3rd Plaintext, Cc: Corresponding correct ciphertext, Dc: Corresponding faulty ciphertext
+Mc = 'ffeeddccbbaa99887766554433221100'
+Cc = '2f49671c7ab81b2f435d9b650e35b8c1'
+Dc = '378da346dc567473c462386312d232ce'
